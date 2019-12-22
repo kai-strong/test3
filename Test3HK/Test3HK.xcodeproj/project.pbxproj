@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		002B025423AF66E9006A154F /* AAA.m in Sources */ = {isa = PBXBuildFile; fileRef = 002B025323AF66E9006A154F /* AAA.m */; };
 		00CF2E9C23AF40CF00F3F3CF /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 00CF2E9B23AF40CF00F3F3CF /* AppDelegate.m */; };
 		00CF2E9F23AF40CF00F3F3CF /* SceneDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 00CF2E9E23AF40CF00F3F3CF /* SceneDelegate.m */; };
 		00CF2EA223AF40CF00F3F3CF /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 00CF2EA123AF40CF00F3F3CF /* ViewController.m */; };
@@ -17,6 +18,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		002B025223AF66E9006A154F /* AAA.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AAA.h; sourceTree = "<group>"; };
+		002B025323AF66E9006A154F /* AAA.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AAA.m; sourceTree = "<group>"; };
 		00CF2E9723AF40CF00F3F3CF /* Test3HK.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Test3HK.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		00CF2E9A23AF40CF00F3F3CF /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		00CF2E9B23AF40CF00F3F3CF /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -67,6 +70,8 @@
 				00CF2E9E23AF40CF00F3F3CF /* SceneDelegate.m */,
 				00CF2EA023AF40CF00F3F3CF /* ViewController.h */,
 				00CF2EA123AF40CF00F3F3CF /* ViewController.m */,
+				002B025223AF66E9006A154F /* AAA.h */,
+				002B025323AF66E9006A154F /* AAA.m */,
 				00CF2EA323AF40CF00F3F3CF /* Main.storyboard */,
 				00CF2EA623AF40D200F3F3CF /* Assets.xcassets */,
 				00CF2EA823AF40D200F3F3CF /* LaunchScreen.storyboard */,
@@ -149,6 +154,7 @@
 				00CF2EA223AF40CF00F3F3CF /* ViewController.m in Sources */,
 				00CF2E9C23AF40CF00F3F3CF /* AppDelegate.m in Sources */,
 				00CF2EAD23AF40D200F3F3CF /* main.m in Sources */,
+				002B025423AF66E9006A154F /* AAA.m in Sources */,
 				00CF2E9F23AF40CF00F3F3CF /* SceneDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
